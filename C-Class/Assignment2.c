@@ -13,8 +13,8 @@ void sum(int A, int B, int *C)
 int main()
 {
 
-//Main variables for the program
 
+//Variables for the Array portion
 char StringArray[30] = "This is the Golden Ratio";
 int GldRtio[10] = {1, 2, 3, 5, 8, 13, 21, 34, 55, 89};
 
@@ -45,7 +45,7 @@ for(int j = 0; j < 10; j++)
 
 puts("\n\n");
 
-//variables used for the function
+//variables used for the Function portion
 int A = 28;
 int B = 12;
 int C = 15;
