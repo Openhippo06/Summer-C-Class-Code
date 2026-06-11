@@ -1,0 +1,30 @@
+Line1: The missile knows where it is at all times.
+Line2: It knows this because it knows where it isn't.
+Line3: By subtracting where it is from where it isn't,
+Line4: Or where it isn't from where it is (whichever is
+Line5: Greater), it obtains a difference, or deviation.
+Line6: The guidance subsystem uses deviations to generate corrective
+Line7: Commands to drive the missile from a position where it is to a
+Line8: Position where it isn't,
+Line9: And arriving at a position where it wasn't, it now is.
+Line10: Consequently, the position where it is,
+Line11: Is now the position that it wasn't,
+Line12: And it follows that the position that
+Line13: It was, is now the position that it isn't.
+Line14: In the event that the position that it is in is not the position that
+Line15: It wasn't, the system has acquired a variation,
+Line16: The variation being the difference between
+Line17: Where the missile is, and where it wasn't.
+Line18: If variation is considered to be a
+Line19: Significant factor, it too may be corrected by the GEA.
+Line20: However, the missile must also know where it was.
+Line21: The missile guidance computer scenario works as follows.
+Line22: Because a variation has modified some of the information
+Line23: The missile has obtained, it is not sure just where it is.
+Line24: However, it is sure where it isn't,
+Line25: Within reason, and it knows where it was.
+Line26: It now subtracts where it should be from where it wasn't,
+Line27: Or vice-versa, and by differentiating this from the algebraic sum of
+Line28: Where it shouldn't be, and where it was,
+Line29: It is able to obtain the deviation
+Line30: And its variation, which is called error.

@@ -7,7 +7,7 @@ int main()
     //Opens the first file and creates the
     //file that will be a duplicate with line numbers
     FILE *old_file = fopen(".\\Text_files\\Assignment1_base.txt", "r");
-    FILE *new_file = fopen(".\\Text_files\\Assingment_1Dup.txt", "w");
+    FILE *new_file = fopen(".\\Text_files\\Assignment_1Dup.txt", "w");
 
     //Values used for the fgets and line numbers
     char current[100];
