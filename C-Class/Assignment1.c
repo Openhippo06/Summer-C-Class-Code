@@ -18,7 +18,8 @@ int main()
     if (old_file == NULL)
     {
         printf("Error: File could not be found\n");
-        printf("Make sure you inputed the correct path");   
+        printf("Make sure you inputed the correct path"); 
+        return 1;
     }
 
     //Using a while loop since if it doesnt work immedietly 
@@ -33,5 +34,11 @@ int main()
 
     }
     
-    printf("The task is completed");
+    printf("Task completed successfully");
+
+    
+    fclose(old_file);
+    fclose(new_file);
+
+    return 0;
 }

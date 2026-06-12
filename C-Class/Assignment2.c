@@ -56,4 +56,5 @@ sum(A, B, &C);
 
 printf("A: %d  B: %d  C: %d", A, B, C);
 
+return 0;
 }
