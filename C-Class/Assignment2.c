@@ -50,7 +50,7 @@ int A = 28;
 int B = 12;
 int C = 15;
 
-//Uses copy by value except for C since Im sending the address of it and the receiver is a point to said address
+//Uses copy by value except for C since Im sending the address of it and the receiver is a pointer to said address
 //making it changeable in a seperate function
 sum(A, B, &C);
 
